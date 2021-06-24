@@ -5,7 +5,7 @@ You probably want the latest tagged version, but the default Git version is the 
 
 ```shell
 # clone the repository
-$ git clone https://github.com/bugranergiz198/myvalorantwebsite.git
+$ git clone https://github.com/bugranergiz/Valorant-ReDesign.git
 $ cd myvalorantwebsite
 # checkout the correct version
 $ git tag
